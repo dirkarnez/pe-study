@@ -1,6 +1,8 @@
 pe-study
 ========
 - https://github.com/golang/go/blob/master/src/cmd/link/internal/ld/pe.go
+- https://github.com/golang/go/blob/master/src/cmd/internal/objfile/objfile.go
+- https://github.com/golang/go/blob/master/src/debug/pe/pe.go
 - https://github.com/sporst/PeLib
 - http://www.phreedom.org/research/tinype/
 - https://github.com/corkami/pocs/tree/master/PE
