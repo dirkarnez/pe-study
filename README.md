@@ -1,5 +1,6 @@
 pe-study
 ========
+- https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/
 - http://www.phreedom.org/research/tinype/
 - https://github.com/golang/go/blob/master/src/cmd/link/internal/ld/pe.go
 - https://github.com/golang/go/blob/master/src/cmd/internal/objfile/objfile.go
