@@ -1,5 +1,6 @@
 pe-study
 ========
+- https://hero.handmade.network/forums/code-discussion/t/94-guide_-_how_to_avoid_c_c++_runtime_on_windows
 - https://tech-zealots.com/malware-analysis/pe-portable-executable-structure-malware-analysis-part-2/
 - http://www.phreedom.org/research/tinype/
 - https://github.com/golang/go/blob/master/src/cmd/link/internal/ld/pe.go
