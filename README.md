@@ -27,3 +27,4 @@ pe-study
 - https://github.com/anders-liu/pe-struct/blob/master/src/struct.ts
 - https://www.itdaan.com/tw/27e6a528e6104433e1c67558e640e348
 - https://bufferoverflows.net/exploring-pe-files-with-python/
+- **https://www.cnblogs.com/shangdawei/p/4785494.html**
